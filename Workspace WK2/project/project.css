@@ -1,0 +1,34 @@
+body {
+    margin: 0 auto;
+}
+.nav-container {
+    background-color: rgb(168, 225, 225);
+    font-family: fantasy;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    align-items: center;
+}
+
+.topic-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 40%;
+}
+
+img {
+    padding: 30px;
+    display: flex;
+    padding-left: 40px;
+    justify-content: center;
+    width: 30%
+}
+
+.new-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+

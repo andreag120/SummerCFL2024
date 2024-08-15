@@ -1,0 +1,60 @@
+.brain-main {
+    margin: 0 auto;
+    text-align: center;
+    height: 100px; 
+
+}
+
+
+.box-1 {
+    background-color: dodgerblue;
+    -webkit-text-fill-color: azure;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 12px;
+    border: 1px solid black;
+}
+.box-1:hover {
+    background-color: darkseagreen;
+    transition: 2s ease-in;
+}
+
+.box-2 {
+    background-color: pink;
+    margin: 0 auto;
+    width: 40%;
+    border-radius: 12px;
+}
+.box-3 {
+    background-color: mediumorchid;
+    margin: 0 auto;
+    width: 40%;
+    border-radius: 12px;
+}
+.box-4 {
+    background-color: lightsteelblue;
+    margin: 0 auto;
+    width: 40%;
+    border-radius: 12px;
+}
+
+.box-5 {
+    background-color: lightsalmon;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 12px;
+} 
+.box-6 {
+    background-color: mediumvioletred;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 12px;
+}
+.brain-1 {
+    text-align: center;
+    height: 100px;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 12px;
+}
+

@@ -1,0 +1,44 @@
+button {
+    height: 70px;
+    width: 80px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.purple:hover {
+    background-color: gold;
+    color: white;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.blue:hover {
+    background-color: blanchedalmond;
+    color: white;
+}
+.green {
+    background-color: green;
+}
+
+.green:hover {
+    background-color: deeppink;
+    color: white;
+}
+
+.teal{
+    background-color: teal;
+}
+
+.teal:hover {
+    background-color: indigo;
+    color: white;
+}
